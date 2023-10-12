@@ -1,0 +1,8 @@
+1. Analytical API
+    a. Server
+    b. Player
+    c. Games
+    d. Clash
+    e. Info
+2. Predictive API
+    
