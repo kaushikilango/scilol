@@ -29,7 +29,3 @@ def get_shard(server):
     d = serverinfo()
     d = d[d['id'] == server]
     return d['shard'].values[0]
-
-
-
-print(get_shard('BR1'))
